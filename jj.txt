@@ -1,0 +1,2 @@
+NAME =janak
+AGE =19
